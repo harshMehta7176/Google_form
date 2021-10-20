@@ -8,7 +8,7 @@ import Question_form from './components/Question_form';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header/>
       <Centeredtabs/>
       <Question_form/>
     </div>
